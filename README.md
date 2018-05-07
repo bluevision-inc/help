@@ -12,7 +12,7 @@
 
 5. 填写Business Manager信息，如果没有，[点击注册](https://business.facebook.com/)；
 
-6. 账户申请完成，通过Business Manager分配Facebook的广告账户，[如何通过Business Manager分配广告账户](/www.baidu.com)。
+6. 账户申请完成，通过Business Manager分配Facebook的广告账户，如何通过Business Manager分配广告账户。
 
 
 
