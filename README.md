@@ -1,5 +1,7 @@
 # 开户流程
 
+---
+
 > 从零开始，按照以下步骤，即可拥有一个可用的facebook广告账户
 
 1.拥有一个Facebook账号，如果没有，[点击注册](https://zh-cn.facebook.com/)，注意，需要翻墙才能打开该网址；![](/assets/import.png)
