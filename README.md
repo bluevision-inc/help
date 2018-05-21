@@ -10,5 +10,5 @@
 
 5.填写Business Manager（商务管理平台）信息，如果没有，[点击注册](https://business.facebook.com/)；![](/assets/BM.png)
 
-6.账户申请审核完成之后，会出现在您的Business Manager（商务管理凭条）中，通过Business Manager分配acebook的广告账户和主页，完成后即可开始广告投放。
+6.账户申请审核完成之后，会出现在您的Business Manager（商务管理凭条）中，[通过Business Manager分配acebook的广告账户和主页](/chapter1/business-manager.md)，完成后即可开始广告投放。
 
