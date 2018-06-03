@@ -16,6 +16,12 @@
 > 蓝瀚互动为Facebook在中国的顶级代理商，开通的Facebook广告账户对应的公司信息需要为国内公司信息。
 > ```
 
+**怎么注册Facebook主页？**
+
+> ```
+> 前往 https://www.facebook.com/pages/creation/?ref_type=pages_browser 注册
+> ```
+
 **什么是Facebook主页？怎么找到Facebook主页ID？**
 
 > ```
