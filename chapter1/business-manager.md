@@ -11,7 +11,7 @@
 **怎么注册Business Manager？**
 
 > ```
-> 前往business.facebook.com注册，需要拥有Facebook账号
+> 前往https://business.facebook.com注册，需要拥有Facebook账号
 > ```
 
 **怎么找到Business Manager ID**
