@@ -11,10 +11,10 @@
 **怎么注册Business Manager？**
 
 > ```
-> 前往https://business.facebook.com注册，需要拥有Facebook账号
+> 前往 https://business.facebook.com 注册，需要拥有Facebook账号
 > ```
 
-**怎么找到Business Manager ID**
+**怎么找到Business Manager ID?**
 
 > ```
 > 进入到自己的BM中，查看链接中的后几位数字，即为Business Manager的ID。
