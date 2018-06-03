@@ -8,6 +8,12 @@
 > Business Manager为Facebook提供的管理广告账户和主页的平台，通过Business Manager可以对广告账户和主页的使用权进行分配。
 > ```
 
+**怎么注册Business Manager？**
+
+> ```
+> 前往business.facebook.com注册，需要拥有Facebook账号
+> ```
+
 **怎么找到Business Manager ID**
 
 > ```
